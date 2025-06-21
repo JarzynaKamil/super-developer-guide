@@ -19,7 +19,6 @@ const config: Config = {
   projectName: 'super-developer-guide', // Usually your repo name.
   deploymentBranch: "gh-pages",
   onBrokenLinks: 'throw',
-  trailingSlash: false,
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
