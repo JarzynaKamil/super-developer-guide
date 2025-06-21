@@ -14,7 +14,7 @@ Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://
 
 ## What's next?
 
-- Read the [official documentation](https://docusaurus.io/)
+- Read the [official documentation](https://docusaurus.io/) test
 - Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
 - Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
 - Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
