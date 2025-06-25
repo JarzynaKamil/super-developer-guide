@@ -29,8 +29,9 @@ Table number should be beetween 000-999. In our case we pick 400 so it makes "tx
 
 :::
 
-
 ![STEP 3](./img/step-003.png)
+
+#### 4. 
 
 ![STEP 4](./img/step-004.png)
 
