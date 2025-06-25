@@ -126,7 +126,10 @@ const config: Config = {
     prism: {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
-    },
+    },  
+    plugins: [
+    'plugin-image-zoom'
+  ],
   } satisfies Preset.ThemeConfig,
 };
 
