@@ -6,7 +6,7 @@ const config: Config = {
   title: 'Super Developer Guide',
   tagline: '☁️ Cloud Edition ☁️',
   favicon: 'img/favicon.ico',
-
+  staticDirectories: ['public', 'static'],
   // Set the production url of your site here
   url: 'https://jarzynakamil.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served

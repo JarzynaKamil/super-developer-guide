@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Part 1
+# 1. Tables and domains
 
 First table, session and report in **INFOR LN**.
 
