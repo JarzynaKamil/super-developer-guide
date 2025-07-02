@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
-# 1. Tables and domains
+# 3. First Scripts
 
 First table, session and report in **INFOR LN**.
 

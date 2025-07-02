@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 7
 ---
 
-# 1. Tables and domains
+# 7. Comming soon...
 
 First table, session and report in **INFOR LN**.
 
